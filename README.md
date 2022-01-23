@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eezea
 - 👀 I’m interested in Web programming.
-- 🌱 I’m currently learning Vue 3.
+- 🌱 I’m currently learning Web 3.0.
 - 💞️ I’m looking to collaborate on any Web projects out there.
 - 📫 How to reach me? By e-mail 📨.
 
